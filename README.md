@@ -1,4 +1,4 @@
-# Roblox Scripts Collection
+# Roblox Things Collection
 
 This repository contains a collection of Roblox-related scripts and tools. Please note that some content may be related to game exploits and modifications.
 
